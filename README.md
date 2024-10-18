@@ -1,4 +1,5 @@
 # Linktree-clone
  A simple Linktree clone project
- 
- ![image](https://github.com/user-attachments/assets/a9c687ea-dd08-483e-b740-8dcba23954b3)
+ [![Check out the live version here](https://gabhartmann.github.io/)]()
+ ![image](https://github.com/user-attachments/assets/4b4cad78-23f6-4576-ad11-b9e711b96bfc)
+)
